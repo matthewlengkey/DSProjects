@@ -1,0 +1,4 @@
+Customer churn at an e-commerce company is rising, which is causing revenues to stagnate or even decline. 
+This project predicts which customers will churn in order to provide the right treatment for them using machine learning model. 
+The project uses classification model to give prediction for the churned customers. 
+Using the machine learning model, company can save up to 67% of the budget for marketing & acquisition cost compared to not using the model.
